@@ -31,6 +31,9 @@
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princeton21&theme=dracula&show_icons=true&hide_border=true"><br/>
 </div>  
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka--><br/>
 
 #  My Statistics  
