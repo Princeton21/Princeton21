@@ -5,7 +5,7 @@
 <h1 align="center"> About Me 🚀</h1>
 <div align="center">
 🎓 I’m an Open-Source enthusiast I am pursuing my Bachelors in Computer Science and Engineering. <br/>
-🌱 I’m currently learning **React JS**<br/>
+🌱 I’m currently learning React JS<br/>
 ⭐️ I'm interested in competitive programming and web development.
 <div/>
 
@@ -30,15 +30,15 @@
 <div align="center">
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princeton21&theme=dracula&show_icons=true&hide_border=true"><br/>
 </div>  
+<br/>
+
+#  My Statistics  
+<img src="https://github-readme-stats.vercel.app/api?username=Princeton21&theme=dracula&show_icons=true&hide_border=true&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Princeton21&theme=dracula&show_icons=true&hide_border=true"/><br/>
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka--><br/>
-
-#  My Statistics  
-<img src="https://github-readme-stats.vercel.app/api?username=Princeton21&theme=dracula&show_icons=true&hide_border=true&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Princeton21&theme=dracula&show_icons=true&hide_border=true"/><br/>
-
 ![snake gif](https://github.com/Princeton21/Princeton21/blob/output/github-contribution-grid-snake.gif)
 
 #  Connect with me!!!
