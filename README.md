@@ -48,7 +48,7 @@
   
   
 #  Recently played music
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ap9fl9nnxd94k0y1sln9wc4y0&count=2&width=350)
+[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ap9fl9nnxd94k0y1sln9wc4y0&count=2&width=350)](https://open.spotify.com/user/ap9fl9nnxd94k0y1sln9wc4y0)
 
   
 #  Connect with me!!!
