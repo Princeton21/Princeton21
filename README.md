@@ -33,7 +33,7 @@
 <br/>
 
 #  My Statistics  
-<img src="https://github-readme-stats.vercel.app/api?username=Princeton21&theme=radical&bg_color=35,5f0a87,000000&border_radius=40%&show_icons=true&hide_border=true&&show_icons=true&count_private=true&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Princeton21&theme=radical&bg_color=35,5f0a87,000000&&count_private=true&border_radius=40%&show_icons=true&hide_border=true&&show_icons=true&count_private=true&include_all_commits=true"/>
 
 # 🔥 Streak stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Princeton21&theme=radical&show_icons=true&hide_border=true&border_radius=40%"/><br/>
