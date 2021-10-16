@@ -28,12 +28,12 @@
 
 <br />
 <div align="center">
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princeton21&theme=tokyonight&show_icons=true&hide_border=true"><br/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princeton21&theme=radical&show_icons=true&hide_border=true"><br/>
 </div>  
 <br/>
 
 #  My Statistics  
-<img src="https://github-readme-stats.vercel.app/api?username=Princeton21&theme=tokyonight&show_icons=true&hide_border=true&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Princeton21&theme=tokyonight&show_icons=true&hide_border=true"/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Princeton21&theme=radical&show_icons=true&hide_border=true&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Princeton21&theme=radical&show_icons=true&hide_border=true"/><br/>
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
