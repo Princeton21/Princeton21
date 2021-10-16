@@ -37,11 +37,13 @@
 
 # 🔥 Streak stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Princeton21&theme=radical&show_icons=true&hide_border=true&border_radius=40%"/><br/>
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka--><br/>
+  
+  
+<!-- 
+[![Princeton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Princeton21)](https://github.com/anuraghazra/github-readme-stats) 
+-->
+
+  
 ![snake gif](https://github.com/Princeton21/Princeton21/blob/output/github-contribution-grid-snake.gif)
 
 #  Connect with me!!!
