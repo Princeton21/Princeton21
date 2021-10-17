@@ -37,11 +37,9 @@
 
 # 🔥 Streak stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Princeton21&theme=radical&show_icons=true&hide_border=true&border_radius=40%"/><br/>
-  
-  
-<!-- 
-[![Princeton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Princeton21)](https://github.com/anuraghazra/github-readme-stats) 
--->
+
+<!-- [![Princeton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Princeton&theme=radical&bg_color=35,5f0a87,000000&&count_private=true&border_radius=40%&show_icons=true&hide_border=true&&show_icons=true?custom_title=Weekly%20Stats)](https://github.com/anuraghazra/github-readme-stats) 
+   -->
 
   
 ![snake gif](https://github.com/Princeton21/Princeton21/blob/output/github-contribution-grid-snake.gif)
