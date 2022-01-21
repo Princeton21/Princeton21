@@ -3,15 +3,12 @@
 
 ## <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Princeton! </h1>
 
-
-
 <h1 align="center"> About Me 🚀</h1>
 <div align="center">
 🎓 I’m an Open-Source enthusiast I am pursuing my Bachelors in Computer Science and Engineering. <br/>
 🌱 I’m currently learning React JS<br/>
 ⭐️ I'm interested in competitive programming and web development.
 <div/>
-
 
 # Languages & 🛠 Tools I use :
 
