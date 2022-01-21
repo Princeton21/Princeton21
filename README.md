@@ -40,8 +40,8 @@
 
   
 <!-- ![Princeton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Princeton&theme=radical&bg_color=35,5f0a87,000000&&count_private=true&border_radius=40%&show_icons=true&hide_border=true&&show_icons=true&custom_title=Weekly%20Stats)  -->
-![snake gif](https://github.com/Princeton21/Princeton21/blob/output/github-contribution-grid-snake.gif)
-  
+![snake gif](https://github.com/Princeton21/Princeton21/blob/output/github-contribution-grid-snake.svg)
+
   
 #  Recently played music
 [![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ap9fl9nnxd94k0y1sln9wc4y0&count=2&width=300)](https://open.spotify.com/user/ap9fl9nnxd94k0y1sln9wc4y0)
