@@ -36,7 +36,7 @@
 <img src="https://github-readme-stats-princeton.vercel.app/api?username=Princeton21&theme=radical&bg_color=35,5f0a87,000000&&count_private=true&border_radius=40%&show_icons=true&hide_border=true&&show_icons=true&count_private=true&include_all_commits=true"/>
 
 # 🔥 Streak stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Princeton21&theme=radical&show_icons=true&hide_border=true&border_radius=40%&include_all_commits=true"/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Princeton21&theme=radical&show_icons=true&hide_border=true&border_radius=40%&count_private=true&include_all_commits=true"/><br/>
 
   
 <!-- ![Princeton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Princeton&theme=radical&bg_color=35,5f0a87,000000&&count_private=true&border_radius=40%&show_icons=true&hide_border=true&&show_icons=true&custom_title=Weekly%20Stats)  -->
