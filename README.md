@@ -45,9 +45,9 @@
 ![snake gif](https://github.com/Princeton21/Princeton21/blob/output/github-contribution-grid-snake.svg)
 
   
-#  Recently played music
+<!-- #  Recently played music
 [![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ap9fl9nnxd94k0y1sln9wc4y0&count=2&width=300)](https://open.spotify.com/user/ap9fl9nnxd94k0y1sln9wc4y0)
-
+ -->
   
 #  Connect with me!!!
 <div align="center">  
