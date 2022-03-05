@@ -59,8 +59,5 @@
 <a href="https://twitter.com/PrincetonDsouz4">
   <img align="center" width="30px" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" />
 </a>
-<a href="mailto:princeton2102@gmail.com">
-  <img align="center" width="30px" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" />
-</a>
 <a href="https://www.hackerrank.com/princeton2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="princeton2102" height="30" width="40" /></a>
   </div>
