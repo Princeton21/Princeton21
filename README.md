@@ -1,5 +1,5 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Princeton21.Princeton21)<br/>
-<!-- [![Badge](https://cp-logo.vercel.app/codechef/princeton0)](https://www.codechef.com/users/princeton0) -->
+[![Badge](https://cp-logo.vercel.app/codechef/princeton0)](https://www.codechef.com/users/princeton0)
 
 ## <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Princeton! </h1>
 
@@ -30,19 +30,21 @@
   
 <div align="center">
   
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princeton21&theme=radical&border_radius=40%&show_icons=true&hide_border=true"><br/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princeton21&theme=algolia&border_radius=40%&show_icons=true&hide_border=true"><br/>
 </div>  
-<br/>
-
-#  My Statistics  
-<img src="https://github-readme-stats.vercel.app/api?username=Princeton21&theme=radical&bg_color=35,5f0a87,000000&&count_private=true&border_radius=40%&show_icons=true&hide_border=true&&show_icons=true&count_private=true&include_all_commits=true"/>
-
+  
+#  My Statistics 
+  
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=Princeton21&theme=algolia&count_private=true&border_radius=40%&show_icons=true&hide_border=true&&show_icons=true&count_private=true&include_all_commits=true)
 # 🔥 Streak stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Princeton21&theme=radical&show_icons=true&hide_border=true&border_radius=40%&count_private=true&include_all_commits=true"/><br/>
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Princeton21&theme=algolia&show_icons=true&hide_border=true&border_radius=40%&count_private=true&include_all_commits=true)
 
   
-<!-- ![Princeton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Princeton&theme=radical&bg_color=35,5f0a87,000000&&count_private=true&border_radius=40%&show_icons=true&hide_border=true&&show_icons=true&custom_title=Weekly%20Stats)  -->
+<!-- ![Princeton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Princeton&theme=dark&bg_color=35,5f0a87,000000&&count_private=true&border_radius=40%&show_icons=true&hide_border=true&&show_icons=true&custom_title=Weekly%20Stats)  -->
 ![snake gif](https://github.com/Princeton21/Princeton21/blob/output/github-contribution-grid-snake.svg)
+ 
+![Princeton's github activity graph](https://activity-graph.herokuapp.com/graph?username=Princeton21&theme=react-dark)
+
 
   
 <!-- #  Recently played music
