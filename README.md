@@ -10,6 +10,10 @@
 ⭐️ I'm interested in competitive programming and web development.
 <div/>
 
+# My Coding Profiles
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Princeton_)
+
+  
 # Languages & 🛠 Tools I use :
 
 <p align="center">
