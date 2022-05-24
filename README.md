@@ -25,6 +25,7 @@
 [![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
 [![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)]()<br/>
+[![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)]()<br/>
 [![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)]()
 [![](https://img.shields.io/badge/sublime%20text%20-%2320232a.svg?&style=for-the-badge&logo=sublime-text&logoColor=FF9800)]()
 [![](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)]()
@@ -50,7 +51,7 @@
 <!-- ![Princeton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Princeton&theme=dark&bg_color=35,5f0a87,000000&&count_private=true&border_radius=40%&show_icons=true&hide_border=true&&show_icons=true&custom_title=Weekly%20Stats)  -->
 ![snake gif](https://github.com/Princeton21/Princeton21/blob/output/github-contribution-grid-snake.svg)
  
-![Princeton's github activity graph](https://activity-graph.herokuapp.com/graph?username=Princeton21&theme=react-dark)
+<!-- ![Princeton's github activity graph](https://activity-graph.herokuapp.com/graph?username=Princeton21&theme=react-dark) -->
 
 
   
