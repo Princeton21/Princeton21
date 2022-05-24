@@ -6,7 +6,7 @@
 <h1 align="center"> About Me 🚀</h1>
 <div align="center">
 🎓 I’m an Open-Source enthusiast I am pursuing my Bachelors in Computer Science and Engineering. <br/>
-🌱 I’m currently learning React JS<br/>
+🌱 I’m currently learning JavaScript<br/>
 ⭐️ I'm interested in competitive programming and web development.
 <div/>
 
@@ -43,12 +43,12 @@
   
 #  My Statistics 
   
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=Princeton21&theme=algolia&count_private=true&border_radius=40%&show_icons=true&hide_border=true&&show_icons=true&count_private=true&include_all_commits=true)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=Princeton21&theme=algolia&count_private=true&border_radius=10%&show_icons=true&hide_border=true&&show_icons=true&count_private=true&include_all_commits=true)
 # 🔥 Streak stats
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Princeton21&theme=algolia&show_icons=true&hide_border=true&border_radius=40%&count_private=true&include_all_commits=true)
 
   
-<!-- ![Princeton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Princeton&theme=dark&bg_color=35,5f0a87,000000&&count_private=true&border_radius=40%&show_icons=true&hide_border=true&&show_icons=true&custom_title=Weekly%20Stats)  -->
+<!-- ![Princeton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Princeton&theme=dark&bg_color=35,5f0a87,000000&&count_private=true&border_radius=10%&show_icons=true&hide_border=true&&show_icons=true&custom_title=Weekly%20Stats)  -->
 ![snake gif](https://github.com/Princeton21/Princeton21/blob/output/github-contribution-grid-snake.svg)
  
 <!-- ![Princeton's github activity graph](https://activity-graph.herokuapp.com/graph?username=Princeton21&theme=react-dark) -->
