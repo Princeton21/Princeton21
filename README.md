@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Princeton21.Princeton21)<br/>
 [![Badge](https://cp-logo.vercel.app/codechef/princeton0)](https://www.codechef.com/users/princeton0)
 
-## <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Princeton! </h1>
+## <h1 align="center">Hello, I'm Princeton! </h1>
 
 <h1 align="center"> About Me 🚀</h1>
 <div align="center">
