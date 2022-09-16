@@ -45,7 +45,7 @@
   
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Princeton21&theme=algolia&count_private=true&border_radius=10%&show_icons=true&hide_border=true&&show_icons=true&count_private=true&include_all_commits=true)
 # 🔥 Streak stats
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Princeton21&theme=algolia&show_icons=true&hide_border=true&border_radius=40%&count_private=true&include_all_commits=true)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Princeton21&theme=algolia&show_icons=true&hide_border=true&border_radius=10%&count_private=true&include_all_commits=true)
 
   
 <!-- ![Princeton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Princeton&theme=dark&bg_color=35,5f0a87,000000&&count_private=true&border_radius=10%&show_icons=true&hide_border=true&&show_icons=true&custom_title=Weekly%20Stats)  -->
